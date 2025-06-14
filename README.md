@@ -2,5 +2,6 @@
 This resource pack overwrites any resource pack that changes your crosshair in Minecraft
 
 
-# -NOTES-  
-*Will probably not work with any mods*    *Needs to be above the resource pack that changes crosshair to work*
+# NOTES  
+-Needs to be on top of the resource pack that changes your crosshair.  
+-Will probably not work with any mods
