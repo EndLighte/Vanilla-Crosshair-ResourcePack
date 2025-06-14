@@ -6,6 +6,6 @@ This resource pack overwrites any resource pack that changes your crosshair in M
 
 **-NOTES-**
   
-  Will probably not work with any mods
+  *Will probably not work with any mods*
   
-  Needs to be above the resource pack that changes crosshair to work
+  *Needs to be above the resource pack that changes crosshair to work*
