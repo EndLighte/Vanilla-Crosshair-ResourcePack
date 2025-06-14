@@ -1,7 +1,7 @@
 This resource pack overwrites any resource pack that changes your crosshair in Minecraft
 
 
-https://modrinth.com/resourcepack/vanilla-crosshair
+
 
 
 ##-NOTES-
