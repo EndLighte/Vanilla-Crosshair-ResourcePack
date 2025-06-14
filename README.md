@@ -1,4 +1,5 @@
-# Description!  This resource pack overwrites any resource pack that changes your crosshair in Minecraft
+# Description!  
+This resource pack overwrites any resource pack that changes your crosshair in Minecraft
 
 
 # -NOTES-  
